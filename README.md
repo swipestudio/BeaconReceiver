@@ -15,6 +15,8 @@ For this demonstration to work you'll need two iOS 7 devices that support Blueto
 
 * Install each app on its own iOS device
 
+* Make sure to activate Bluetooth on both devices
+
 * Start the sender app and toggle the activate switch. You'll need to start the Receiver app before it can recognize regions. Keep the receiver device at a reasonable distance from the sender device, or you'll see the welcome screen immediately.
 
 * Have fun with beacons
