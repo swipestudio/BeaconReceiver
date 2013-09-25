@@ -15,7 +15,7 @@ For this demonstration to work you'll need two iOS 7 devices that support Blueto
 
 * Install each app on its own iOS device
 
-* Start the sender app and toggle the activate switch. Keep the other device (the receiver) at a reasonable distance from the sender device, or you'll see the welcome screen immediatly 
+* Start the sender app and toggle the activate switch. You'll need to start the Receiver app before it can recognize regions. Keep the receiver device at a reasonable distance from the sender device, or you'll see the welcome screen immediately.
 
 * Have fun with beacons
 
