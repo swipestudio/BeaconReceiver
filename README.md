@@ -15,6 +15,8 @@ For this demonstration to work you'll need two iOS 7 devices that support Blueto
 
 * Install each app on its own iOS device
 
+* Start the sender app and toggle the activate switch. Keep the other device (the receiver) at a reasonable distance from the sender device, or you'll see the welcome screen immediatly 
+
 * Have fun with beacons
 
 You can also uncomment the UILabel _meterLabel in the SBRViewController, which will then display the approximate distance to the beacon. The label is not shown by default.
